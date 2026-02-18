@@ -1,6 +1,6 @@
 {
   "name": "vklass",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "CLI tool for Vklass",
   "main": "dist/index.js",
   "type": "module",
@@ -24,7 +24,10 @@
     ".": "./dist/index.js",
     "./cli": "./dist/cli.js"
   },
-  "keywords": ["vklass","cli"],
+  "keywords": [
+    "vklass",
+    "cli"
+  ],
   "license": "MIT",
   "devDependencies": {
     "vitest": "latest",
